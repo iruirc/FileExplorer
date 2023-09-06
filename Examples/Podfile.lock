@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "./../FileExplorer.podspec.json"
 
 SPEC CHECKSUMS:
-  FileExplorer: 9869dc386f080fa7c05083370b07ec0c8a4ced3f
+  FileExplorer: 2dfd8912bd1dc6b45f9be59165bba0b04b17ad59
 
 PODFILE CHECKSUM: 294165705954ac7af3c40a005d96a66b6f7406fe
 
