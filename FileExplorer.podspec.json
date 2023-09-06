@@ -16,7 +16,7 @@
     "tag": "v1.0.4"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "13.0"
   },
   "source_files": "FileExplorer/FileExplorer/*.{swift,h}",
   "resources": "FileExplorer/FileExplorer/Resources/*.*",
